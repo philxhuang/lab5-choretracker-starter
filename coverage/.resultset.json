@@ -61,6 +61,12 @@
       ],
       "/mnt/c/Users/PhilHuang/Documents/GitHub/lab5-choretracker-starter/app/models/chore.rb": [
         1,
+        1,
+        1,
+        null
+      ],
+      "/mnt/c/Users/PhilHuang/Documents/GitHub/lab5-choretracker-starter/app/models/task.rb": [
+        1,
         null
       ],
       "/mnt/c/Users/PhilHuang/Documents/GitHub/lab5-choretracker-starter/app/controllers/application_controller.rb": [
@@ -313,13 +319,9 @@
       "/mnt/c/Users/PhilHuang/Documents/GitHub/lab5-choretracker-starter/app/helpers/tasks_helper.rb": [
         0,
         0
-      ],
-      "/mnt/c/Users/PhilHuang/Documents/GitHub/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
       ]
     },
-    "timestamp": 1612746868
+    "timestamp": 1612747009
   },
   "Minitest": {
     "coverage": {
