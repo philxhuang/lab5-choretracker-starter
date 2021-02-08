@@ -15,7 +15,7 @@ class ActiveSupport::TestCase
   # include the Contexts module for all tests
   include Contexts
 
-  # Prof. H's helper method to increase readability
+  # Prof. H's helper method to incrbundease readability
   def deny(condition, msg="")
     assert !condition, msg
   end
